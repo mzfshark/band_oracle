@@ -1,5 +1,9 @@
 # Band Oracle Test
 
+## Band Reference contract
+- mainnet : 0xDA7a001b254CD22e46d3eAB04d937489c93174C3
+- testnet : 0xD0b2234eB9431e850a814bCdcBCB18C1093F986B
+
 ## requirements
 - Foundry
 - Funded ONE testnet account
@@ -8,7 +12,7 @@
 
 ```
 curl -L https://foundry.paradigm.xyz | bash
-foundryup 
+foundryup
 ```
 
 https://docs.harmony.one/home/network/validators/node-setup/hmy-cli-download
