@@ -1,7 +1,7 @@
 # Band Oracle Test
 
 ## Band Reference contract
-- mainnet : 0xDA7a001b254CD22e46d3eAB04d937489c93174C3
+- mainnet : 0xA55d9ef16Af921b70Fed1421C1D298Ca5A3a18F1
 - testnet : 0xD0b2234eB9431e850a814bCdcBCB18C1093F986B
 
 ## requirements
